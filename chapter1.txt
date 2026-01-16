@@ -1,1 +1,1 @@
-hello whats up, this text is produced in vs code.
+hello people, this text is made in vs code.
